@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Interested in building AI-powered full-stack applications that solve real-world problems<br>Enjoy working on projects at the intersection of software engineering and machine learning, including open-source tools, applied AI/ML systems, and SWE-oriented products<br>focused on turning ideas into practical, production-ready solutions rather than just prototypes
+- Interested in building AI-powered full-stack applications that solve real-world problems<br>- Enjoy working on projects at the intersection of software engineering and machine learning, including open-source tools, applied AI/ML systems, and SWE-oriented products<br>- Focused on turning ideas into practical, production-ready solutions rather than just prototypes
 
 
 # 💻 Tech Stack:
