@@ -1,11 +1,11 @@
-# 💫 About Me:
+#  About Me:
 - Interested in building AI-powered full-stack applications that solve real-world problems  
 - Enjoy working on projects at the intersection of software engineering and machine learning, including open-source tools, applied AI/ML systems, and SWE-oriented products  
 - Focused on turning ideas into practical, production-ready solutions rather than just prototypes  
 
 ---
 
-# 💻 Tech Stack:
+#  Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -18,7 +18,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RoshanRam101&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=RoshanRam101&theme=dark&hide_border=false)
